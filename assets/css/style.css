@@ -149,11 +149,9 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 992px) {
   #header {
-    height: 64px;
+    height: 105px;
   }
-  #header .logo h1 {
-    font-size: 28px;
-  }
+ 
 }
 
 /*--------------------------------------------------------------
@@ -301,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #fff;
+  color: #0157a4;
 }
 
 .mobile-nav {
