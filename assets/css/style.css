@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   max-height: 150px;
   position: absolute;
-  top: -10px;
+  top: -15px;
 }
 
 @media (max-width: 992px) {
@@ -397,6 +397,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/hero-bg.jpg");
   position: relative;
   padding: 120px 0 0 0;
+  
 }
 
 #hero:before {
@@ -407,6 +408,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   right: 0;
+  
 }
 
 #hero h1 {
@@ -504,6 +506,7 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateY(-10px);
   }
 }
+
 
 .hero-waves {
   display: block;
